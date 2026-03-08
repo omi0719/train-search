@@ -1,0 +1,9 @@
+{
+  "name": "列車番号検索",
+  "short_name": "列車検索",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f172a",
+  "icons": []
+}
